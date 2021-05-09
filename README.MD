@@ -1,9 +1,18 @@
 # Progressive Web Apps - Complete Guide
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
 
-# How to Use
-You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodejs.org) and go through the installation steps.
+## The project includes:
 
-Once Node.js is installed, open your command prompt or terminal and **navigate into this project folder**. There, run `npm install` to install all required dependencies.
+**All the core features which a progressive web app has:**
 
-Finally, run `npm start` to start the development server and visit [localhost:8080](http://localhost:8080) to see the running application.
+1. Addition to homescreen.
+2. Use of service workers that allow us to make use of following features:
+  a. Background synchorinization.
+  b. Caching/Offline support.
+  c. Push notifications.
+3. Responsive Design.
+4. Geolocation and Media API.
+
+## Live Demo
+
+You can test a live version of the application here: https://pwagram-bb2da.web.app
