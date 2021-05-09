@@ -1,4 +1,4 @@
-# Progressive Web Apps - Complete Guide
+# PWAGram - Progressive Web App
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
 
 ## The project includes:
