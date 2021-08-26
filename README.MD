@@ -7,7 +7,7 @@ This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - 
 
 1. Addition to homescreen.
 2. Use of service workers that allow us to make use of following features:
-  i. Background synchorinization.
+  i. Background synchronization.
   ii. Caching/Offline support.
   iii. Push notifications.
 3. Responsive Design.
